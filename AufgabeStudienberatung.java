@@ -9,5 +9,9 @@ main AufgabeStudienberatung{
 
 		String answerQ1 = peter.nextLine();
 
+		System.out.println("Hast du Fachabitur?"); //Question 2
+
+		String answerQ2 = peter.nextLine();
+
 	}
 }
