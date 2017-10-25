@@ -9,5 +9,9 @@ main AufgabeStudienberatung{
 
 		String answerQ1 = peter.nextLine();
 
+		System.out.println("Bist du wissensbegierig?"); //Question 3
+
+		String answerQ3 = peter.nextLine();
+
 	}
 }
