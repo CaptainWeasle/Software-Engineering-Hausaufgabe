@@ -18,6 +18,9 @@ main AufgabeStudienberatung{
 
 		String answerQ3 = peter.nextLine();
 
+		System.out.println("Hast du eine Berufsausbildung?");
+
+		String answerQ4 = peter.nextLine();
 
 	}
 }
